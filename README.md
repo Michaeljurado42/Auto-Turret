@@ -13,7 +13,7 @@ Face tracking pan-tilt camera coda with Neural Compute Stick 2
 + numpy
 
 ## How to Run
-sudo pigpiod
+sudo pigpiod \n
 python Auto-Turret.py
 
 I will add more documentation for this project in the future. 
