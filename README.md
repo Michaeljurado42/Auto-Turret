@@ -1,6 +1,6 @@
 # Auto-Turret
 Face tracking pan-tilt camera coda with Neural Compute Stick 2
-Demo found here: https://github.com/Michaeljurado24/Auto-Turret
+Demo found here: https://youtu.be/LpfvC-iNyMc
 ## * Hardware Requirements
 + Raspberry pi
 + Neural Compute Stick 2
